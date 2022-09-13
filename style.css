@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#ser{
+    box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.2), 0 6px 20px 0 rgba(255, 255, 255, 0.19);
+    
+}
+
+#facebook::before{
+    content:url(fc.png);
+    
+    
+}
+#ser{
+    margin: 30px;
+}
+#ser:hover{
+    background-color: aquamarine;
+}
+#abo{
+    
+    margin-top: 30px;
+}
+#form{
+    margin: 30px;
+    background: #000;
+    border-radius: 30px;
+}
+p{
+    margin: 50px;
+  
+    
+}
+  ul a  li{
+    font-size: 20px;
+    margin-left: 50px;
+    margin: 20px;
+    color: #000;
+    text-decoration: none;
+    display: inline-block;
+   
+}
